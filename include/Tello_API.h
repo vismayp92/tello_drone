@@ -1,12 +1,12 @@
 /*
  ****************************************************
- * Author	:	Vismay Patel						*
- * Created	:	18th October, 2021.					*
- * Website	:	https://github.com/vismayp92		*
- * Email	:	patelvismay92@gmail.com				*
- *													*
- * About:											*
- * This is the free to share and use source code.	*
+ * Author	:	Vismay Patel
+ * Created	:	18th October, 2021.
+ * Website	:	https://github.com/vismayp92
+ * Email	:	patelvismay92@gmail.com
+ *
+ * About:
+ * This is the free to share and use source code.
  ****************************************************
  */
 
